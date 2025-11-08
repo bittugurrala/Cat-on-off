@@ -1,16 +1,16 @@
 
-## 🐱💡 Cat Light On/Off — JavaScript Mini Project
+## Cat Light On/Off — JavaScript Mini Project
 
 A fun and simple interactive webpage built with **HTML**, **CSS**, and **JavaScript**, where you can turn a cat’s light **on or off** using buttons.
 Perfect for beginners learning DOM manipulation and event handling in JS!
 
 ---
 
-### 🖼️ Project Preview
+###  Project Preview
 
+<img src = "images/image.png" alt = "Preview image of the">
 
-
-### 🚀 Features
+###  Features
 
 * 🟢 **Light ON/OFF functionality**
 * 🐾 **Interactive button controls** using JS event listeners
@@ -20,7 +20,7 @@ Perfect for beginners learning DOM manipulation and event handling in JS!
 
 ---
 
-### 🧱 Technologies Used
+###  Technologies Used
 
 * **HTML5** – structure of the webpage
 * **CSS3** – styling and animations
@@ -29,7 +29,7 @@ Perfect for beginners learning DOM manipulation and event handling in JS!
 
 ---
 
-### 📁 Folder Structure
+###  Folder Structure
 
 ```
 cat-on-off/
@@ -44,7 +44,7 @@ cat-on-off/
 
 ---
 
-### 🧠 How It Works
+###  How It Works
 
 * The webpage displays an image of a **light bulb (or cat)**.
 * When you click the **ON** button:
@@ -58,7 +58,7 @@ cat-on-off/
 
 ---
 
-### ⚙️ Setup Instructions
+###  Setup Instructions
 
 1. **Clone this repository**
 
@@ -92,7 +92,7 @@ Changes the image `src` dynamically and toggles classes for visual effects.
 
 ---
 
-### 🌈 Future Improvements
+###  Future Improvements
 
 * Add sound effects when toggling the light.
 * Animate the cat’s eyes or tail movement.
@@ -100,22 +100,22 @@ Changes the image `src` dynamically and toggles classes for visual effects.
 
 ---
 
-### 🤝 Contributing
+### Contributing
 
 Contributions are welcome!
 Feel free to open issues or submit pull requests to enhance the project.
 
 ---
 
-### 🧾 License
+### License
 
 This project is open-source and available under the **MIT License**.
 
 ---
 
-### 👨‍💻 Author
+### Author
 
-**Bittu Gurrala**
-📧 gurralasrisai.plac@gmail.com
-🔗 Github link: https://github.com/bittugurrala
+**Bittu Gurrala** <br>
+📧 gurralasrisai.plac@gmail.com <br>
+🔗 Github link: https://github.com/bittugurrala <br>
 🔗 LinkedIn link: https://www.linkedin.com/in/srisaigurrala/
